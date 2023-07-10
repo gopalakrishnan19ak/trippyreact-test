@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Bungee+Spice&family=Dancing+Script:wght@400;600;700&family=Montserrat:wght@400;600&family=Passions+Conflict&family=Poppins:wght@200;300;400;500&family=Rubik+Dirt&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
